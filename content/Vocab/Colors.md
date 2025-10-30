@@ -1,0 +1,14 @@
+| Emoji | German       | English |
+| ----- | ------------ | ------- |
+| 🔴    | rot          | red     |
+| 🔵    | blau         | blue    |
+| 🟡    | gelb         | yellow  |
+| 🟢    | grün         | green   |
+| 🟠    | orange       | orange  |
+| 🩷    | rosa         | pink    |
+| 🟣    | lila/violett | purple  |
+| 🟤    | braun        | brown   |
+| ⚫     | schwarz      | black   |
+| ⚪     | weiß         | white   |
+| 🩶    | grau         | gray    |
+| 🤚🏽  | beige        | beige   |
