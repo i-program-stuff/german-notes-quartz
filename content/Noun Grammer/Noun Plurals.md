@@ -1,4 +1,4 @@
-#### Clues of Masculine Nouns:
+#### Clues for Masculine Nouns:
 
 ###### Adding **-e**:
 
@@ -28,7 +28,7 @@ They have no change but sometimes add an umlaut.
 
 Of course there are always irregulars such as der Mann → die Männer.
 
-#### Clues of Feminine Nouns:
+#### Clues for Feminine Nouns:
 
 ###### Adding **-e** or **-en**:
 
@@ -49,7 +49,7 @@ The huge majority of feminine nouns add -n or -en:
 
 Once again exceptions exist: die Mutter → die Mütter; die Tochter → die Töchter.
 
-#### Clues of Neuter Nouns:
+#### Clues for Neuter Nouns:
 
 ###### Adding **-e**:
 
