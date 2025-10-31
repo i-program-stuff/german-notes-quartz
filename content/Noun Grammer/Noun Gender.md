@@ -94,5 +94,5 @@ Beer is an exception to the Alcoholic drinks rule, it is *das Bier* in German.
 In compound words, the last noun is dictates the gender.
 
 **Example:**
-die Telefon*nummer* 
-das Computer*spiel*
+- die Telefon*nummer* 
+- das Computer*spiel*

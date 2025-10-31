@@ -120,6 +120,7 @@
 | das            | Gebirge                      | Mountain range               |
 | der            | Wald                         | Woods/Forest                 |
 | die            | Haltestelle                  | (bus/subway) Stop            |
+| .v             | dauern                       | to last                      |
 
 
 

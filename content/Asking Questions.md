@@ -4,7 +4,6 @@ Sentence Order: *question word* - *finite verb* - *subject* - *other elements*
 
 | German     | English      |
 | ---------- | ------------ |
-| wer?       | who?         |
 | was?       | what?        |
 | wann?      | when?        |
 | warum?     | why?         |
@@ -14,14 +13,22 @@ Sentence Order: *question word* - *finite verb* - *subject* - *other elements*
 | wie viele? | how many?    |
 | wie oft?   | how often?   |
 
-| German | Literal meaning | Used for                          | Example                                     |
-| ------ | --------------- | --------------------------------- | ------------------------------------------- |
-| wo     | where (static)  | Location (no movement)            | Wo bist du? = Where are you?                |
-| wohin  | where to        | Destination / direction (towards) | Wohin gehst du? = Where are you going (to)? |
-| woher  | where from      | Origin / source (from)            | Woher kommst du? = Where do you come from?  |
+| German    | Literal meaning | Case             | Example          | Example Translation       |
+| --------- | --------------- | ---------------- | ---------------- | ------------------------- |
+| **wo**    | where (static)  | Dative           | Wo bist du?      | Where are you?            |
+| **wohin** | where to        | Accusative       | Wohin gehst du?  | Where are you going (to)? |
+| **woher** | where from      | von/aus + Dative | Woher kommst du? | Where do you come from?   |
+
+| German  | Literal meaning      | Case       | Example                | Example Translation              |
+| ------- | -------------------- | ---------- | ---------------------- | -------------------------------- |
+| **wer** | who? (subject)       | Nominative | Wer kommt heute?       | Who is coming today?             |
+| **wen** | whom? (object)       | Accusative | Wen siehst du?         | Whom / Who do you see?           |
+| **wem** | to whom? / for whom? | Dative     | Wem gibst du das Buch? | To whom are you giving the book? |
+
 
 **Examples:**
 - **Wer ist das?** → *Who is that?*  
+- **Wem hilfst du** → *Whom are you helping?*  
 - **Wo wohnst du?** → *Where do you live?*  
 - **Woher kommen Sie?** → *Where do you come from?*  
 - **Wohin gehst du am nächsten Montag?** → *Where are you going next Monday?*    
