@@ -11,3 +11,6 @@
 | der Koch / die Köchin             | cook / chef       | 👨‍🍳👩‍🍳 |
 | der Mechaniker / die Mechanikerin | mechanic          | 🧰         |
 | der Schüler / die Schülerin       | student (school)  | 🧑‍🎓      |
+| der Künstler / die Künstlerin     | Artist            | 🧑‍🎨      |
+| der Kassierer / die Kassiererin   | Cashier           | 💵         |
+| der Bäcker / die Bäckerin         | Backer            | 🥖🍞       |

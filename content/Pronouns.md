@@ -34,9 +34,9 @@
 
 ## Demonstrative Pronouns
 
-| Gender     | Nominative | Accusative | Dative   | Genitive |
-|------------|------------|------------|----------|----------|
-| Masculine  | dieser     | diesen     | diesem   | dieses   |
-| Feminine   | diese      | diese      | dieser   | dieser   |
-| Neuter     | dieses     | dieses     | diesem   | dieses   |
-| Plural     | diese      | diese      | diesen   | dieser   |
+| Gender    | Nominative | Accusative | Dative |
+| --------- | ---------- | ---------- | ------ |
+| Masculine | dieser     | diesen     | diesem |
+| Feminine  | diese      | diese      | dieser |
+| Neuter    | dieses     | dieses     | diesem |
+| Plural    | diese      | diese      | diesen |

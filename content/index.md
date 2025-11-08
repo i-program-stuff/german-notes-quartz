@@ -26,7 +26,8 @@ I hope you find them useful!
 - [[Clothing]]
 - [[Professions]]
 - [[Things in a House]]
-### General
+
+### Miscellaneous
 - [[Asking Questions]]
 - [[Negation]]
 - [[Numbers]]

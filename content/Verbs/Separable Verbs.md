@@ -1,4 +1,4 @@
-Example: auf (~up) + stehen (stand) -> aufstehen (get up)  
+Example: auf (~up) + stehen (stand) -> aufstehen (stand up)  
 
 [A Good Reference](https://germanstudiesdepartmenaluser.host.dartmouth.edu/Wortbildung/Separables.html)  
 
@@ -42,6 +42,9 @@ Example: auf (~up) + stehen (stand) -> aufstehen (get up)
 | rauskommen        | to come out          |
 | nachkommen        | to come later        |
 | zurückkommen      | to come back         |
+
+
+
 ###### The prefixes go in the end of the Word:
 
 Example for *aufstehen*: Bernhard steht um fünf Uhr morgens auf.   

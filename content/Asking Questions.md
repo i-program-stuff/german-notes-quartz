@@ -65,3 +65,19 @@ For these, try to use "wie" instead of "was":
 - **Läuft sie wirklich jeden Tag 10 km?** → *Does she really run 10km everyday?*  
 
 As you can see, the finite verb moves into the first place.
+
+## Doch
+
+*This is rather a **reply** than a question so take it as a bonus segment.*
+
+Doch means "Yes, I do" and it's used to contradict a negative sentence.
+
+> 🧑‍🦰 Kannst du mir nicht helfen?
+> 🧑‍🦱 Doch! Ich kann!
+
+It can also be used to show something is obvious:
+> 🧑‍🦱 Das ist doch klar! → That is (obviously) clear!
+> 🧑‍🦱 Du weißt das doch! → You know that (obviously)! 
+
+It can also be used for softening a command like this:
+> 🧑‍🦰 Komm doch mit! → Oh, come along!

@@ -2,27 +2,17 @@
 | Article / Type | German                       | English                      |
 | -------------- | ---------------------------- | ---------------------------- |
 | .              | wirklich                     | really                       |
-| das/die        | handy / handys               | phone                        |
-| die            | handynummer                  | phone number                 |
-| .              | etwas                        | some                         |
-| .v             | hören                        | hearing                      |
-| .              | kurz                         | small                        |
+| .              | wichtig                      | important                    |
 | das/die        | radio/radios                 | radio                        |
 | .v             | verlieren                    | to lose                      |
-| .              | wichtig                      | important                    |
-| .              | zweimal                      | twice                        |
 | die            | Polizei                      | Police                       |
-| .v             | Entschuldigung               | excuse me / sorry            |
 | .v             | fehlen                       | to be missing                |
-| .v             | schreiben                    | to write                     |
 | .v             | lassen / lass                | to let / let!                |
-| der/die        | Künstler/Künstlerin          | Artist                       |
 | .v             | bezahlen                     | Pay                          |
-| .v             | Empfehlungen                 | Recommendations              |
-| der/die        | Nachname / Nachnamem         | Lastname                     |
+| die            | Empfehlungen                 | Recommendations              |
+| der/die        | Nachname / Nachnamen         | Last name                    |
 | .setz          | Auf Wiedersehen              | Goodbye                      |
 | .setz          | Bis Bald                     | See you soon                 |
-| .setz          | Ein bisschen                 | Little Bit                   |
 | .              | häßlich                      | ugly                         |
 | .              | überall                      | overall                      |
 | .              | müde                         | tired                        |
@@ -41,14 +31,13 @@
 | das            | Frükstück                    | Breakfast                    |
 | der            | Einkaufszettel               | Shopping list                |
 | der            | Imbiß                        | Snack                        |
-| der/die        | Kassierer/Kassiererin        | Cashier                      |
 | das            | Mehl                         | Flour                        |
 | .v             | schneiden                    | To slice                     |
 | .v             | messen                       | to measure                   |
 | der            | Chef                         | Boss                         |
 | die            | Mensa                        | Cafeteria                    |
 | .v             | besuchen                     | to visit                     |
-| .setz          | du bist immer spät!          | You are late                 |
+| .setz          | du bist immer spät!          | You are always late!         |
 | .              | pünktlicher                  | punctually                   |
 | .              | Verspätung                   | delay                        |
 | .              | sauer                        | sour/angry                   |
@@ -87,7 +76,7 @@
 | .setz          | herzlich Glückwunsch         | Happy Birthday               |
 | .setz          | Ich denke                    | I think                      |
 | .              | täglich                      | everyday                     |
-| .              | möglich                      | possble                      |
+| .              | möglich                      | possible                     |
 | .              | faul                         | lazy                         |
 | .v             | vergessen                    | to forget                    |
 | .              | gefährlich                   | dangerous                    |
@@ -121,6 +110,8 @@
 | der            | Wald                         | Woods/Forest                 |
 | die            | Haltestelle                  | (bus/subway) Stop            |
 | .v             | dauern                       | to last                      |
+| der            | Ausflug                      | excursion                    |
+| .              | fleißig                      | hardworking                  |
 
 
 

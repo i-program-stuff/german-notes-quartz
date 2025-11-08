@@ -4,21 +4,21 @@
 
 ### Two‑way prepositions
 
-| Preposition | Meaning (English)  | Position of the ball relative to the box    |
-| ----------- | ------------------ | ------------------------------------------- |
-| an          | at / on (vertical) | The ball is adjacent to the side of the box |
-| auf         | on (horizontal)    | The ball is on top of the box               |
-| hinter      | behind             | The ball is behind the box                  |
-| in          | in / inside        | The ball is inside the box                  |
-| neben       | next to / beside   | The ball is next to the box                 |
-| über        | over / above       | The ball is above the box                   |
-| unter       | under / below      | The ball is below the box                   |
-| vor         | in front of        | The ball is in front of the box             |
-| zwischen    | between            | The ball is between two boxes               |
+| Preposition | Meaning (English)  |
+| ----------- | ------------------ |
+| an          | at / on (vertical) |
+| auf         | on (horizontal)    |
+| hinter      | behind             |
+| in          | in / inside        |
+| neben       | next to / beside   |
+| über        | over / above       |
+| unter       | under / below      |
+| vor         | in front of        |
+| zwischen    | between            |
 
 **With these prepositions: if the object is static, it's dative, else if the object is being moved, then it's accusative.** 
 
-| Verb        | Type     | Case Used | Example (German)                              | Translation (English)                |
+| Verb        | Type     | Case Used | Example                                       | Translation                          |
 | ----------- | -------- | --------- | --------------------------------------------- | ------------------------------------ |
 | **stehen**  | static   | Dativ     | Die Flasche **steht auf dem Tisch.**          | The bottle is standing on the table. |
 | **liegen**  | static   | Dativ     | Das Buch **liegt unter dem Stuhl.**           | The book is lying under the chair.   |
@@ -32,7 +32,7 @@
 
 ### Time prepositions
 
-These are all take Dative except **"um"** and **"bis"**!
+These all take Dative except **"um"** and **"bis"**!
 
 | Preposition | Meaning in Time                    | Example                               | Translation                                |
 | ----------- | ---------------------------------- | ------------------------------------- | ------------------------------------------ |
@@ -45,5 +45,5 @@ These are all take Dative except **"um"** and **"bis"**!
 | ab          | from / starting (future)           | ab morgen / ab dem ersten Juni        | starting tomorrow / from the first of June |
 | seit        | since / for (ongoing)              | seit drei Jahren / seit Montag        | for three years / since Monday             |
 | bis         | until / up to                      | bis morgen / bis zum Abend            | until tomorrow / until the evening         |
-| von … bis   | from … to                          | von Montag bis Freitag                | from Monday to Friday                      |
+| von ... bis | from ... to                        | von Montag bis Freitag                | from Monday to Friday                      |
 | an          | on (holidays/days)                 | an Weihnachten / an Ostern            | on Christmas / at Easter                   |
