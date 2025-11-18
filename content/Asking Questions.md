@@ -72,12 +72,12 @@ As you can see, the finite verb moves into the first place.
 
 Doch means "Yes, I do" and it's used to contradict a negative sentence.
 
-> 🧑‍🦰 Kannst du mir nicht helfen?
-> 🧑‍🦱 Doch! Ich kann!
+> 🧑‍🦰 Kannst du mir nicht helfen?  
+> 🧑‍🦱 Doch! Ich kann!  
 
-It can also be used to show something is obvious:
-> 🧑‍🦱 Das ist doch klar! → That is (obviously) clear!
-> 🧑‍🦱 Du weißt das doch! → You know that (obviously)! 
+It can also be used to show something is obvious:  
+> 🧑‍🦱 Das ist doch klar! → That is (obviously) clear!  
+> 🧑‍🦱 Du weißt das doch! → You know that (obviously)!   
 
-It can also be used for softening a command like this:
-> 🧑‍🦰 Komm doch mit! → Oh, come along!
+It can also be used for softening a command like this:  
+> 🧑‍🦰 Komm doch mit! → Oh, come along!  

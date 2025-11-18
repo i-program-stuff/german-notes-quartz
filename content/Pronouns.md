@@ -17,18 +17,17 @@
 
 ## Possessive Pronouns
 
-
 | Person             | Nominative    | Accusative                     | Dative                             |
 | ------------------ | ------------- | ------------------------------ | ---------------------------------- |
-| ich (my)           | mein, meine   | meinen, meine, mein, meine     | meinem, meiner, meinen, meinem     |
-| du (your, sg.)     | dein, deine   | deinen, deine, dein, deine     | deinem, deiner, deinen, deinem     |
-| er (his)           | sein, seine   | seinen, seine, sein, seine     | seinem, seiner, seinen, seinem     |
-| sie (her)          | ihr, ihre     | ihren, ihre, ihr, ihre         | ihrem, ihrer, ihren, ihrem         |
-| es (its)           | sein, seine   | seinen, seine, sein, seine     | seinem, seiner, seinen, seinem     |
-| wir (our)          | unser, unsere | unseren, unsere, unser, unsere | unserem, unserer, unseren, unserem |
-| ihr (your, pl.)    | euer, eure    | euren, eure, euer, eure        | eurem, eurer, euren, eurem         |
-| sie (their)        | ihr, ihre     | ihren, ihre, ihr, ihre         | ihrem, ihrer, ihren, ihrem         |
-| Sie (your, formal) | Ihr, Ihre     | Ihren, Ihre, Ihr, Ihre         | Ihrem, Ihrer, Ihren, Ihrem         |
+| ich (my)           | mein, meine   | meinen, meine, mein, meine     | meinem, meiner, meinem, meinen     |
+| du (your, sg.)     | dein, deine   | deinen, deine, dein, deine     | deinem, deiner, deinem, deinen     |
+| er (his)           | sein, seine   | seinen, seine, sein, seine     | seinem, seiner, seinem, seinen     |
+| sie (her)          | ihr, ihre     | ihren, ihre, ihr, ihre         | ihrem, ihrer, ihrem, ihren         |
+| es (its)           | sein, seine   | seinen, seine, sein, seine     | seinem, seiner, seinem, seinen     |
+| wir (our)          | unser, unsere | unseren, unsere, unser, unsere | unserem, unserer, unserem, unseren |
+| ihr (your, pl.)    | euer, eure    | euren, eure, euer, eure        | eurem, eurer, eurem, euren         |
+| sie (their)        | ihr, ihre     | ihren, ihre, ihr, ihre         | ihrem, ihrer, ihrem, ihren         |
+| Sie (your, formal) | Ihr, Ihre     | Ihren, Ihre, Ihr, Ihre         | Ihrem, Ihrer, Ihrem, Ihren         |
 
 ---
 

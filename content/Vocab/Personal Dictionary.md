@@ -112,6 +112,7 @@
 | .v             | dauern                       | to last                      |
 | der            | Ausflug                      | excursion                    |
 | .              | fleißig                      | hardworking                  |
+| die            | kerze                        | candle                       |
 
 
 

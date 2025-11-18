@@ -13,10 +13,12 @@ I hope you find them useful!
 - [[Noun Plurals]]
 
 ### Verbs
-- [[Imperatives]]
 - [[Past Tense]]
 - [[Present Tense]]
+- [[Future Tense]]
 - [[Separable Verbs]]
+- [[Imperatives]]
+- [[Reflexive Verbs]]
 
 ### Vocabulary
 - [[Body Parts]]
