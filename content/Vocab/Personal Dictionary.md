@@ -113,6 +113,7 @@
 | der            | Ausflug                      | excursion                    |
 | .              | fleißig                      | hardworking                  |
 | die            | kerze                        | candle                       |
+| .v             | wählen                       | to choose                    |
 
 
 

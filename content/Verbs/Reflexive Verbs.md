@@ -30,5 +30,4 @@ If there's another object you can use dative.
 | **sich setzen**              | to sit down              |
 | **sich interessieren (für)** | to be interested (in)    |
 | **sich treffen (mit)**       | to meet (with)           |
-| **sich beeilen**             | to hurry                 |
 | **sich fühlen**              | to feel                  |

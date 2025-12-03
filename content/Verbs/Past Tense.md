@@ -80,7 +80,7 @@ For verbs with inseparable prefixes such as **be-, emp-, ent-, er-, ge-, miss-, 
 
 ## Präteritum
 
-In spoken German, the Präteritum is usually only used for haben and sein. Perfekt is used in general for most other verbs.  
+In spoken German, the Präteritum is usually only used for **haben**, **sein** and **model verbs**. Perfekt is used in general for most other verbs. 
 
 | Person    | haben   | sein  |
 | --------- | ------- | ----- |
@@ -91,14 +91,24 @@ In spoken German, the Präteritum is usually only used for haben and sein. Perfe
 | ihr       | hattet  | wart  |
 | sie/Sie   | hatten  | waren |
 
+|Person|können|müssen|dürfen|sollen|wollen|mögen|
+|---|---|---|---|---|---|---|
+|ich|konnte|musste|durfte|sollte|wollte|mochte|
+|du|konntest|musstest|durftest|solltest|wolltest|mochtest|
+|er/sie/es|konnte|musste|durfte|sollte|wollte|mochte|
+|wir|konnten|mussten|durften|sollten|wollten|mochten|
+|ihr|konntet|musstet|durftet|solltet|wolltet|mochtet|
+|sie/Sie|konnten|mussten|durften|sollten|wollten|mochten|
+
 ###### Examples: 
-- Ich hatte Hunger.  
-- Mein Freund hatte Geburtstag.  
+- Ich hatte Hunger. 
+- Sie mussten lange arbeiten.
 - Ich war Dunstig.  
 - Ich hatte gestern keine Zeit.  
 - Wo warst du denn?   
-- Das Essen war gut.  
+- Ich konnte gestern nicht kommen.
 - Sie hatten viel Spaß.  
+- Ich mochte diesen Film.
 
 
 ## Exceptions List

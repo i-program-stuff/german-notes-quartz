@@ -11,14 +11,21 @@ I hope you find them useful!
 - [[Articles]]
 - [[Noun Gender]]
 - [[Noun Plurals]]
+- [[Adjectives]]
 
-### Verbs
+### Verb Grammar
 - [[Past Tense]]
 - [[Present Tense]]
 - [[Future Tense]]
 - [[Separable Verbs]]
 - [[Imperatives]]
 - [[Reflexive Verbs]]
+
+### Other Grammar
+- [[Asking Questions]]
+- [[Prepositions]]
+- [[Pronouns]]
+
 
 ### Vocabulary
 - [[Body Parts]]
@@ -30,10 +37,7 @@ I hope you find them useful!
 - [[Things in a House]]
 
 ### Miscellaneous
-- [[Asking Questions]]
 - [[Negation]]
 - [[Numbers]]
-- [[Prepositions]]
-- [[Pronouns]]
 - [[Sentence Connectors]]
 - [[Telling the Time and Date]]
