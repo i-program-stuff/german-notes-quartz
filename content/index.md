@@ -23,13 +23,14 @@ I hope you find them useful!
 
 ### Other Grammar
 - [[Asking Questions]]
+- [[Indirect Speech]]
 - [[Prepositions]]
 - [[Pronouns]]
-
 
 ### Vocabulary
 - [[Body Parts]]
 - [[Colors]]
+- [[Opposites]]
 - [[Family and People]]
 - [[Weather]]
 - [[Clothing]]

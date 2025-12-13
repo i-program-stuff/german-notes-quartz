@@ -18,22 +18,23 @@ Cases where *sein* is used are:
 
 ###### Some Sein Verbs:
 
-| Infinitiv   | Partizip II   | Englisch     |
-| ----------- | ------------- | ------------ |
-| gehen       | gegangen      | go           |
-| kommen      | gekommen      | come         |
-| fahren      | gefahren      | drive        |
-| laufen      | gelaufen      | walk, run    |
-| fliegen     | geflogen      | fly          |
-| reisen      | gereist       | travel       |
-| springen    | gesprungen    | jump         |
-| rennen      | gerannt       | run          |
-| wandern     | gewandert     | hike, wander |
-| schwimmen   | geschwommen   | swim         |
-| passieren   | passiert      | happen       |
-| aufstehen   | aufgestanden  | wake up      |
-| einschlafen | eingeschlafen | fall asleep  |
-| wachsen     | gewachsen     | grow         |
+| Infinitiv   | Partizip II   | Englisch        |
+| ----------- | ------------- | --------------- |
+| gehen       | gegangen      | went            |
+| kommen      | gekommen      | came            |
+| fahren      | gefahren      | drove           |
+| laufen      | gelaufen      | walked, ran     |
+| fliegen     | geflogen      | flew            |
+| reisen      | gereist       | traveled        |
+| springen    | gesprungen    | jumped          |
+| rennen      | gerannt       | ran             |
+| wandern     | gewandert     | hiked, wandered |
+| schwimmen   | geschwommen   | swam            |
+| passieren   | passiert      | happened        |
+| aufstehen   | aufgestanden  | woke up         |
+| einschlafen | eingeschlafen | fell asleep     |
+| wachsen     | gewachsen     | grew            |
+| werden      | geworden      | became          |
 
 ###### Examples:
 - Ihr habt um 8 Uhr getanzt → Y'all danced at 8 o'clock.  
@@ -82,14 +83,14 @@ For verbs with inseparable prefixes such as **be-, emp-, ent-, er-, ge-, miss-, 
 
 In spoken German, the Präteritum is usually only used for **haben**, **sein** and **model verbs**. Perfekt is used in general for most other verbs. 
 
-| Person    | haben   | sein  |
-| --------- | ------- | ----- |
-| ich       | hatte   | war   |
-| du        | hattest | warst |
-| er/sie/es | hatte   | war   |
-| wir       | hatten  | waren |
-| ihr       | hattet  | wart  |
-| sie/Sie   | hatten  | waren |
+| Person    | haben   | sein  | werden  |
+| --------- | ------- | ----- | ------- |
+| ich       | hatte   | war   | wurde   |
+| du        | hattest | warst | wurdest |
+| er/sie/es | hatte   | war   | wurde   |
+| wir       | hatten  | waren | wurden  |
+| ihr       | hattet  | wart  | wurdet  |
+| sie/Sie   | hatten  | waren | wurden  |
 
 |Person|können|müssen|dürfen|sollen|wollen|mögen|
 |---|---|---|---|---|---|---|

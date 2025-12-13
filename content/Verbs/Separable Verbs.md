@@ -30,7 +30,6 @@ Example: auf (~up) + stehen (stand) -> aufstehen (stand up)
 | aufmachen         | to open                |
 | zumachen          | to close               |
 
-
 ###### A single verb can have multiple prefixes:
 
 | Informal (spoken) | English              |
@@ -42,8 +41,6 @@ Example: auf (~up) + stehen (stand) -> aufstehen (stand up)
 | rauskommen        | to come out          |
 | nachkommen        | to come later        |
 | zurückkommen      | to come back         |
-
-
 
 ###### The prefixes go in the end of the Word:
 

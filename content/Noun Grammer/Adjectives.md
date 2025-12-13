@@ -40,6 +40,6 @@ The adjectives in ***italics*** are have strong endings instead of weak.
 | Case       | Masculine               | Feminine              | Neuter                  | Plural                   |
 | ---------- | ----------------------- | --------------------- | ----------------------- | ------------------------ |
 | Nominative | ein ***junger*** Mann   | eine ***junge*** Frau | ein ***junges*** Kind   | keine **jungen** Leute   |
-| Accusative | einen **jungen** Mann   | eine **junge** Frau   | ein ***junges*** Kind   | keine **jungen** Leute   |
+| Accusative | einen **jungen** Mann   | eine ***junge*** Frau | ein ***junges*** Kind   | keine **jungen** Leute   |
 | Dative     | einem **jungen** Mann   | einer **jungen** Frau | einem **jungen** Kind   | keinen **jungen** Leuten |
 | Genitive   | eines **jungen** Mannes | einer **jungen** Frau | eines **jungen** Kindes | keiner **jungen** Leute  |
