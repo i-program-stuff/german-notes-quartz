@@ -10,3 +10,14 @@ Used for expressing unrealistic situations and extra politeness. Similar to the 
 | **wollen** | wollte | wolltest | wollte    | wollten | wolltet | wollten | would want                |
 | **sollen** | sollte | solltest | sollte    | sollten | solltet | sollten | should / supposed to      |
 | **mögen**  | möchte | möchtest | möchte    | möchten | möchtet | möchten | would like                |
+
+| Verb       | ich   | du      | er/sie/es | wir    | ihr    | sie/Sie |
+| ---------- | ----- | ------- | --------- | ------ | ------ | ------- |
+| **sein**   | wäre  | wärst   | wäre      | wären  | wärt   | wären   |
+| **haben**  | hätte | hättest | hätte     | hätten | hättet | hätten  |
+| **werden** | würde | würdest | würde     | würden | würdet | würden  |
+
+#### Examples
+- Ich würde gern nach Deutschland reisen.
+- Wir würden ein neues Haus kaufen, wenn wir viel Geld hätten.
+- Wenn ich reich wäre, müsste ich nicht arbeiten.

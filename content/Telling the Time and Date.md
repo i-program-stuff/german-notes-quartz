@@ -46,6 +46,25 @@ Es ist zwanzig vor sieben → it is 20 to 7.
 | Morgen  | Tomorrow  |
 | Jetzt   | Now       |
 
+####  Ordinal numbers
+
+For ordinal numbers, add -te or -ste if higher than 20.
+
+| English      | German           |
+| ------------ | ---------------- |
+| first        | erste            |
+| second       | zweite           |
+| third        | dritte           |
+| sixth        | sechste          |
+| seventh      | siebte           |
+| tenth        | zehnte           |
+| twentieth    | zwanzigste       |
+| thirty first | einunddreißigste |
+
+**If it's dative, add -n to the end.**
+- Heute ist der dritte März.
+- Ich gehe am siebten ins Kino.
+
 #### Days of the Week:
 
 | English   | German     |

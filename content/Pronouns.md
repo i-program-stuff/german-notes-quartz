@@ -1,17 +1,17 @@
-
+ 
 ## Personal Pronouns
 
-| Nominative (Subject) | Accusative (Direct Object) | Dative (Indirect Object) | Genitive (Possessive, rare) |
-| -------------------- | -------------------------- | ------------------------ | --------------------------- |
-| ich                  | mich                       | mir                      | meiner                      |
-| du                   | dich                       | dir                      | deiner                      |
-| er                   | ihn                        | ihm                      | seiner                      |
-| sie                  | sie                        | ihr                      | ihrer                       |
-| es                   | es                         | ihm                      | seiner                      |
-| wir                  | uns                        | uns                      | unser                       |
-| ihr                  | euch                       | euch                     | euer                        |
-| sie                  | sie                        | ihnen                    | ihrer                       |
-| Sie                  | Sie                        | Ihnen                    | Ihrer                       |
+| Nominative (Subject) | Accusative (Direct Object) | Dative (Indirect Object) |
+| -------------------- | -------------------------- | ------------------------ |
+| ich                  | mich                       | mir                      |
+| du                   | dich                       | dir                      |
+| er                   | ihn                        | ihm                      |
+| sie                  | sie                        | ihr                      |
+| es                   | es                         | ihm                      |
+| wir                  | uns                        | uns                      |
+| ihr                  | euch                       | euch                     |
+| sie                  | sie                        | ihnen                    |
+| Sie                  | Sie                        | Ihnen                    |
 
 ---
 
