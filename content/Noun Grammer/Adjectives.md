@@ -71,6 +71,7 @@ Basically just add -er. Most words have an umlaut change if they have a, o, or e
 **The equivalent of "than" in German is "als".**  
 
 - Berlin ist größer als München.
+- Dieser Laptop ist teurer als mein Laptop. 
 
 ## Superlative
 
@@ -96,7 +97,7 @@ Basically just add am + adjective + -sten. Same umlaut changes as Comparative.
 | dunkel     | am dunkelsten     |
 | gern       | am liebsten       |
 
-German doesn't differentiate between adject and adjective + ly. Example, beautiful and beautifully.
+German doesn't differentiate between adjective and adjective + ly. Example, beautiful and beautifully.
 - Sie tanzt sehr schön. → She dances beautifully.
 
 Comparatives also follow article declination.
