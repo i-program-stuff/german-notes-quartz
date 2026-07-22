@@ -1,6 +1,6 @@
 
 **Akkusativ Präpositionen**: `für, um, bis, ohne`  
-**Dativ Präpositionen**: `mit, zu, bei, aus, von, in, an, nach, seit`  
+**Dativ Präpositionen**: `mit, zu, bei, aus, von, nach, seit, außer`  
 
 ### Two‑way prepositions
 

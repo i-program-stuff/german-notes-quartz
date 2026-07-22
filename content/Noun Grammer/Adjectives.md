@@ -17,6 +17,8 @@ These have weak endings.
 | Accusative | den **jungen** Mann   | die **junge** Frau  | das **junge** Kind    | die **jungen** Leute  |
 | Dative     | dem **jungen** Mann   | der **jungen** Frau | dem **jungen** Kind   | den **jungen** Leuten |
 | Genitive   | des **jungen** Mannes | der **jungen** Frau | des **jungen** Kindes | der **jungen** Leute  |
+Some adjectives work like definite articles (eg: welche, alle, manche*)
+- Ich habe alle neuen Autos überprüft
 
 #### With no Article
 
@@ -104,3 +106,28 @@ Comparatives also follow article declination.
 - Sie haben ein größeres Haus gekauft.
 - Der beste Wein kommt aus Italien. 
 
+## Adjectives as Nouns
+
+As the name suggests, using adjectives as nouns. English does the same:
+- Protect the weak! ("weak" here is a noun)
+
+In German that sentence would be: **Schütz die Schwachen!**
+
+Some more examples:
+- Er ist ein Angestellter.
+- Der Kranke muss im Bett bleiben.
+- Ich habe mit einem Bekannten gesprochen.
+- Dort steht ein Obdachloser.
+
+Even though there's nothing following the adjective, it has to follow proper declination.
+
+| Type of Article         | Masculine (The sick man) | Plural (Sick people) |
+| ----------------------- | ------------------------ | -------------------- |
+| **Definite (Weak)**     | der Krank**e**           | die Krank**en**      |
+| **Indefinite (Mixed)**  | ein Krank**er**          | (keine) Krank**en**  |
+| **No Article (Strong)** | Krank**er**              | Krank**e**           |
+
+When referring to abstract things, use neuter declination.
+- Ich wünsche dir das Beste.
+- Gibt es etwas Neues?
+- Ich habe nichts Interessantes gesehen.

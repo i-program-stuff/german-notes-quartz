@@ -60,7 +60,7 @@ Vast majority of neuter nouns just take an "-e" in the end but no umlaut.
 | das Bein | die Beine |
 | das Jahr | die Jahre |
 
-###### Adding umlaut + **-en**:
+###### Adding umlaut + **-er**:
 
 | Singular | Plural     |
 | -------- | ---------- |

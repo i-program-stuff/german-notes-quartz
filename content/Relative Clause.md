@@ -1,4 +1,11 @@
 
+| Case           | Masculine | Feminine | Neuter | Plural |
+| -------------- | --------- | -------- | ------ | ------ |
+| **Nominative** | der       | die      | das    | die    |
+| **Accusative** | den       | die      | das    | die    |
+| **Dative**     | dem       | der      | dem    | denen  |
+| **Genitive**   | dessen    | deren    | dessen | deren  |
+
 Relativsatz is used to give more information about a noun in a sentence.
 
 Example in English would be: "My friend, who I know from school, is going to Berlin". In German that sentence would be: „Mein Freund, den ich aus der Schule kenne, geht nach Berlin.“
@@ -22,3 +29,12 @@ In that sentence. „den“ refers to „Den Film“ which is masculine. You mig
 
 In that sentence, Apfel is nominative, but in the Relativsatz, it is accusative because it's the object that is being eaten.
 
+In Genitive, it works like the English word "whose".
+- Ich habe mit ihr gesprochen, deren Geschäft ich oft besuche.
+- Das ist das Kind, dessen kleiner Ball weg ist. (The [[Articles|Adjective Declination]] does not have to be in Genitive)
+
+###### Examples:
+- Das sind die Freunde, denen ich helfe.
+- Das ist der Kollege, mit dem ich gestern gesprochen habe.
+- Das ist das Haus, in dem meine Großeltern früher gewohnt haben.
+- Ich kenne ihn, dessen rotes Auto gestohlen wurde.

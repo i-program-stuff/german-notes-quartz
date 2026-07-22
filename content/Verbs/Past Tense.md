@@ -81,25 +81,20 @@ For verbs with inseparable prefixes such as **be-, emp-, ent-, er-, ge-, miss-, 
 
 ## Präteritum
 
-In spoken German, the Präteritum is usually only used for **haben**, **sein** and **model verbs**. Perfekt is used in general for most other verbs. 
+In spoken German, the Präteritum is usually used for these verbs: **haben**, **sein**, **geben (es gab)**, and **model verbs**. Perfekt is used in general for most other verbs. The usage depends on the region.
 
-| Person    | haben   | sein  | werden  |
-| --------- | ------- | ----- | ------- |
-| ich       | hatte   | war   | wurde   |
-| du        | hattest | warst | wurdest |
-| er/sie/es | hatte   | war   | wurde   |
-| wir       | hatten  | waren | wurden  |
-| ihr       | hattet  | wart  | wurdet  |
-| sie/Sie   | hatten  | waren | wurden  |
+It's very commonly used in written German and Story Telling. 
 
-|Person|können|müssen|dürfen|sollen|wollen|mögen|
-|---|---|---|---|---|---|---|
-|ich|konnte|musste|durfte|sollte|wollte|mochte|
-|du|konntest|musstest|durftest|solltest|wolltest|mochtest|
-|er/sie/es|konnte|musste|durfte|sollte|wollte|mochte|
-|wir|konnten|mussten|durften|sollten|wollten|mochten|
-|ihr|konntet|musstet|durftet|solltet|wolltet|mochtet|
-|sie/Sie|konnten|mussten|durften|sollten|wollten|mochten|
+| Person    | haben   | sein  | werden  | können   | müssen   | dürfen   | sollen   | wollen   |
+| --------- | ------- | ----- | ------- | -------- | -------- | -------- | -------- | -------- |
+| ich       | hatte   | war   | wurde   | konnte   | musste   | durfte   | sollte   | wollte   |
+| du        | hattest | warst | wurdest | konntest | musstest | durftest | solltest | wolltest |
+| er/sie/es | hatte   | war   | wurde   | konnte   | musste   | durfte   | sollte   | wollte   |
+| wir       | hatten  | waren | wurden  | konnten  | mussten  | durften  | sollten  | wollten  |
+| ihr       | hattet  | wart  | wurdet  | konntet  | musstet  | durftet  | solltet  | wolltet  |
+| sie/Sie   | hatten  | waren | wurden  | konnten  | mussten  | durften  | sollten  | wollten  |
+
+Unlike conjugation in the present tense, forms for ich and er/sie/es are conjugated the same in Präteritum.
 
 ###### Examples: 
 - Ich hatte Hunger. 
@@ -113,39 +108,45 @@ In spoken German, the Präteritum is usually only used for **haben**, **sein** a
 
 
 ## Exceptions List
-| Infinitiv | Partizip II | Englisch       |
-| --------- | ----------- | -------------- |
-| anfangen  | angefangen  | to begin/start |
-| backen    | gebacken    | to bake        |
-| bleiben   | geblieben   | to stay/remain |
-| bringen   | gebracht    | to bring       |
-| denken    | gedacht     | to think       |
-| essen     | gegessen    | to eat         |
-| fahren    | gefahren    | to drive/go    |
-| fallen    | gefallen    | to fall        |
-| finden    | gefunden    | to find        |
-| fliegen   | geflogen    | to fly         |
-| geben     | gegeben     | to give        |
-| gehen     | gegangen    | to go          |
-| gewinnen  | gewonnen    | to win         |
-| helfen    | geholfen    | to help        |
-| kommen    | gekommen    | to come        |
-| laufen    | gelaufen    | to run/walk    |
-| lesen     | gelesen     | to read        |
-| nehmen    | genommen    | to take        |
-| rufen     | gerufen     | to call/shout  |
-| schlafen  | geschlafen  | to sleep       |
-| schreiben | geschrieben | to write       |
-| schwimmen | geschwommen | to swim        |
-| sehen     | gesehen     | to see         |
-| singen    | gesungen    | to sing        |
-| sitzen    | gesessen    | to sit         |
-| sprechen  | gesprochen  | to speak       |
-| stehen    | gestanden   | to stand       |
-| treffen   | getroffen   | to meet        |
-| trinken   | getrunken   | to drink       |
-| vergessen | vergessen   | to forget      |
-| verlieren | verloren    | to lose        |
-| waschen   | gewaschen   | to wash        |
-| werden    | geworden    | to become      |
-| ziehen    | gezogen     | to pull/draw   |
+| Infinitiv | Präteritum | Partizip II | Englisch                |
+| :-------- | :--------- | :---------- | :---------------------- |
+| anfangen  | fing an    | angefangen  | to begin/start          |
+| backen    | backte/buk | gebacken    | to bake                 |
+| bleiben   | blieb      | geblieben   | to stay/remain          |
+| bringen   | brachte    | gebracht    | to bring                |
+| denken    | dachte     | gedacht     | to think                |
+| essen     | aß         | gegessen    | to eat                  |
+| fahren    | fuhr       | gefahren    | to drive/go             |
+| fallen    | fiel       | gefallen    | to fall                 |
+| finden    | fand       | gefunden    | to find                 |
+| fliegen   | flog       | geflogen    | to fly                  |
+| geben     | gab        | gegeben     | to give                 |
+| gehen     | ging       | gegangen    | to go                   |
+| gewinnen  | gewann     | gewonnen    | to win                  |
+| helfen    | half       | geholfen    | to help                 |
+| kommen    | kam        | gekommen    | to come                 |
+| laufen    | lief       | gelaufen    | to run/walk             |
+| lesen     | las        | gelesen     | to read                 |
+| nehmen    | nahm       | genommen    | to take                 |
+| rufen     | rief       | gerufen     | to call/shout           |
+| schlafen  | schlief    | geschlafen  | to sleep                |
+| schreiben | schrieb    | geschrieben | to write                |
+| schwimmen | schwamm    | geschwommen | to swim                 |
+| sehen     | sah        | gesehen     | to see                  |
+| singen    | sang       | gesungen    | to sing                 |
+| sitzen    | saß        | gesessen    | to sit                  |
+| sprechen  | sprach     | gesprochen  | to speak                |
+| stehen    | stand      | gestanden   | to stand                |
+| treffen   | traf       | getroffen   | to meet                 |
+| trinken   | trank      | getrunken   | to drink                |
+| vergessen | vergaß     | vergessen   | to forget               |
+| verlieren | verlor     | verloren    | to lose                 |
+| waschen   | wusch      | gewaschen   | to wash                 |
+| ziehen    | zog        | gezogen     | to pull/draw            |
+| wissen    | wusste     | gewusst     | to know (facts)         |
+| kennen    | kannte     | gekannt     | to know (people/places) |
+| heißen    | hieß       | geheißen    | to be called            |
+| tun       | tat        | getan       | to do                   |
+| liegen    | lag        | gelegen     | to lie (location)       |
+
+

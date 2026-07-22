@@ -1,3 +1,25 @@
+# Konjunktiv I
+
+Used for hearsay sentences.
+ 
+| Pronoun       | **sein** (to be) | **haben** (to have) | **können** (can) | Regular Verb (machen) |
+| ------------- | ---------------- | ------------------- | ---------------- | --------------------- |
+| **ich**       | sei              | habe*               | könne            | mache*                |
+| **du**        | seist            | habest              | könnest          | machest               |
+| **er/sie/es** | **sei**          | **habe**            | **könne**        | **mache**             |
+| **wir**       | seien            | haben*              | können*          | machen*               |
+| **ihr**       | seiet            | habet               | könnet           | machet                |
+| **sie / Sie** | seien            | haben*              | können*          | machen*               |
+
+| Pronoun       | **Ending** |
+| ------------- | ---------- |
+| **ich**       | -e         |
+| **du**        | -est       |
+| **er/sie/es** | -e         |
+| **wir**       | -en        |
+| **ihr**       | -et        |
+| **sie / Sie** | -en        |
+
 ## Konjunktiv II
 
 Used for expressing unrealistic situations and extra politeness. Similar to the word "would" in English.

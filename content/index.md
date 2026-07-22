@@ -20,6 +20,7 @@ I hope you find them useful!
 - [[Separable Verbs]]
 - [[Imperatives]]
 - [[Reflexive Verbs]]
+- [[Subjunctive]]
 
 ### Other Grammar
 - [[Relative Clause]]
@@ -28,6 +29,8 @@ I hope you find them useful!
 - [[Indirect Speech]]
 - [[Prepositions]]
 - [[Pronouns]]
+- [[Usage of Zu]]
+- [[ZU vs IN vs NACH]]
 
 ### Vocabulary
 - [[Body Parts]]
